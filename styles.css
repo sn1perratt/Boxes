@@ -1,0 +1,14 @@
+div{
+    width:400px;
+    height:200px;
+    background-color:red;
+    border:dotted;
+    padding:0px;
+}
+card{
+    width:400px;
+    height:200px;
+    background-color:orange;
+    border:dotted;
+    padding:10px;
+}
